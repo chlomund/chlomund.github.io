@@ -2,7 +2,7 @@ title: Chloe Munden
 theme: minima
 author:
   name: Chloe Munden
-  email: chloemuden15@gmail.com
+  email: "chloemuden15@gmail.com"
 header_pages:
   - about.md
   - posts.md
